@@ -3,7 +3,7 @@
 
 Thư mục này chứa toàn bộ mã nguồn chính (Source Code) của phần phân tích dữ liệu và mô hình dự báo cho dự án Datathon Vinuni 2026 (Round 1).
 
-## 📂 Cấu trúc thư mục và Mô tả các tệp
+## Cấu trúc thư mục và Mô tả các tệp
 
 * **`EDA.ipynb`**
   Notebook thực hiện **Exploratory Data Analysis (Phân tích Dữ liệu Khám phá)**. Quá trình EDA được cấu trúc chuyên sâu theo góc nhìn Khách hàng - Doanh nghiệp, tập trung trả lời các câu hỏi trọng tâm:
@@ -23,7 +23,7 @@ Thư mục này chứa toàn bộ mã nguồn chính (Source Code) của phần 
 * **`submission.csv`**
   Tệp tin chứa kết quả dự báo cuối cùng được kết xuất từ `Model.ipynb`. Tệp xuất ra gồm các trường thông tin: `Date` (Ngày), `Revenue` (Doanh thu dự báo), và ước tính `COGS` (Giá vốn hàng bán).
 
-## 🚀 Hướng dẫn thực thi (Execution)
+## Hướng dẫn thực thi (Execution)
 
 1. Đảm bảo toàn bộ các file dữ liệu dạng `.csv` được đặt ở cấp thư mục gốc của repository (`g:\Cuộc thi\Datathon_Vinuni - 2026\datathon-2026-round-1`).
 2. Mở file `EDA.ipynb` trên Jupyter Notebook hoặc VS Code để xem chi tiết các phân tích và các biểu đồ đồ thị đã được định dạng.
